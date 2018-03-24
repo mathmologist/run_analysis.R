@@ -12,4 +12,5 @@ following conditions:
    of each variable for each activity and each subject.
    
 All of these goals are satisfied with the script provided and through exposure to skillful
-data manipulation.
+data manipulation. Successive steps rearranged the data into tidier and tidier forms that 
+provided for practical summarizations.
